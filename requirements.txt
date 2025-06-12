@@ -1,0 +1,13 @@
+pydantic
+python-dotenv
+langchain
+langchain-openapi
+langchain-groq
+langchain-core
+langchain-community
+pypdf
+bs4
+lxml
+wikipedia
+langchain_huggingface
+youtube_search
