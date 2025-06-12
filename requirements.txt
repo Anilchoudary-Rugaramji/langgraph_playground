@@ -11,3 +11,4 @@ lxml
 wikipedia
 langchain_huggingface
 youtube_search
+langgraph
