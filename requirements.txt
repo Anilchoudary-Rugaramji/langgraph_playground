@@ -12,3 +12,6 @@ wikipedia
 langchain_huggingface
 youtube_search
 langgraph
+google-genai
+sentence-transformers
+chromadb
